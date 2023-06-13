@@ -1,7 +1,7 @@
 # Knowledge Representation and Reasoning
 
 # Author
-Matthias Bartolo 0436103L
+**Matthias Bartolo 0436103L**
 
 ## Preview:
 ```prolog
