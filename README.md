@@ -54,6 +54,6 @@ Conclusively, these tasks provided valuable knowledge and practical experience i
 
 ## Deliverables:
 The repository includes:<br />
-1. Prolog Assignment
-2. Prolog Exercises
+1. [Prolog Assignment](https://github.com/mbar0075/Knowledge-Representation-and-Reasoning/tree/main/Prolog%20Assignment)
+2. [Prolog Exercises](https://github.com/mbar0075/Knowledge-Representation-and-Reasoning/tree/main/Prolog%20Exercises)
  
